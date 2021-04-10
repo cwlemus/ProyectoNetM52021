@@ -9,6 +9,7 @@ namespace AppEjemploGitM51
             Console.WriteLine("Hello World!");
             Console.WriteLine("Saludos desde remoto!!!!");
             Console.WriteLine("Saludos desde local");
+            Console.WriteLine("Gestionando cambios..");
         }
     }
 }
